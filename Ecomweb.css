@@ -1,0 +1,70 @@
+.img_container .col-3 {
+    margin-top: 230px;
+    align-items: center;
+    padding: 50px 60px;
+}
+.img_container .col-3 a{
+    text-decoration: underline;
+   font-weight: bold;
+   color: black;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: 500px;
+   font-size: 0.5cm;
+}
+.img_container .col-3 a:hover{
+    color: blue;
+}
+.img_container .col-2 {
+    align-items: center;
+    margin-top: -10px;
+}
+.img_container .col-2 a{
+    text-decoration: underline;
+    font-style: italic;
+    color: black;
+    margin-top: 100px;
+    margin-left: 600px; 
+    text-align: center;
+    font-size: 0.4cm;
+ }
+ .img_container .col-2 a:hover{
+    color: blue;
+ }
+ .img_container .col-a {
+    align-items: center;
+    margin-left: 80px;
+    font-size: 0.5cm;
+    margin-top: 60px;
+    
+ }
+ .img_container .col-a a{
+    color: black;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.img_container .col-a a:hover{
+    color: blue;
+}
+.img_container .col-b {
+    text-decoration: underline;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 0.5cm;
+ }
+ .img_container .col-b a{
+ color: black;
+ align-items: center;
+ margin-top: 20px;
+ margin-left: 20px;
+}
+.img_container .col-b a:hover{
+    color: blue;
+}
+.col-1{
+    margin-left: 260px;
+    margin-top: 80px;
+}
